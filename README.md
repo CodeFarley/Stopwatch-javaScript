@@ -15,5 +15,4 @@ In forked repository add your changes.
 Then make pull request with issue number .
 Pull request should have screenshot of the changes you have made.
 Wait for review.
-Web link - https://codefarley.github.io/Stopwatch-javaScript/
 If you want this project then go ahead. Fork and clone it, make changes according to you.After that you can host it on Github using github pages.For any help reach me on social media link is in profile readme.
